@@ -34,7 +34,7 @@ Summary of existing representative works on cross-domain graph learning.
 1. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**.
    In **KDD'2024**, [[Paper](https://arxiv.org/pdf/2402.09834)]  [[Code](https://github.com/cshhzhao/GCOPE)].
 
-2. **UniGraph Learning a Cross-Domain Graph Foundation Model From Natural Language**.
+2. **UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs**.
    In **arXiv**, [[Paper](https://arxiv.org/pdf/2402.13630)].
 
 3. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**.
@@ -45,11 +45,33 @@ Summary of existing representative works on cross-domain graph learning.
 
 5. **Cross-domain few-shot graph classification with a reinforced task coordinator**.
    In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25615/25387)].
-6. **Pending to extend...**
+6. **Cross-Context Backdoor Attacks against Graph Prompt Learning**. In **KDD 2024**, [[Paper](https://doi.org/10.1145/3637528.3671956)].
+7. **Federated Learning on Non-IID Graphs via Structural Knowledge Sharing**. In **AAAI 2023**, [[Paper](https://doi.org/10.1609/aaai.v37i8.26187)].
+8. **Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition**. In **MM 2020**, [[Paper](https://doi.org/10.1145/3394171.3413822)].
+9. **OpenGraph: Towards Open Graph Foundation Models**. In **xxxx 20xx**, [[Paper]()].
+10. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**. In **xxxx 20xx**, [[Paper]()].
+11. **Gcc: Graph contrastive coding for graph neural network pre-training**. In **xxxx 20xx**, [[Paper]()].
+12. **GraphGPT: Graph Instruction Tuning for Large Language Models**. In **xxxx 20xx**, [[Paper]()].
+13. **One for all: Towards training one graph model for all classification tasks**. In **xxxx 20xx**, [[Paper]()].
+14. **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**. In **xxxx 20xx**, [[Paper]()].
+15. **PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis**. In **xxxx 20xx**, [[Paper]()].
+16. **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**. In **xxxx 20xx**, [[Paper]()].
+17. **A Pure Transformer Pretraining Framework on Text-attributed Graphs**. In **xxxx 20xx**, [[Paper]()].
+18. **ProCom: A Few-shot Targeted Community Detection Algorithm**. In **xxxx 20xx**, [[Paper]()].
+19. **Semi-supervised Domain Adaptation in Graph Transfer Learning**. In **xxxx 20xx**, [[Paper]()].
+20. **Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning**. In **xxxx 20xx**, [[Paper]()].
+21. **Source Free Graph Unsupervised Domain Adaptation**. In **xxxx 20xx**, [[Paper]()].
+22. **Graph few-shot learning via knowledge transfer**. In **xxxx 20xx**, [[Paper]()].
+23. **Graph Machine Learning in the Era of Large Language Models (LLMs)**. In **xxxx 20xx**, [[Paper]()].
+24. **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**. In **xxxx 20xx**, [[Paper]()].
+25. **Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**. In **xxxx 20xx**, [[Paper]()].
+26. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **xxxx 20xx**, [[Paper]()].
+27. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **xxxx 20xx**, [[Paper]()].
+28. **Pending to extend...**
 
 
 ## Others
-Pending to extend.
+Pending to extend...
 
 ## Contributing
 👍 Contributions to this repository are welcome! 
