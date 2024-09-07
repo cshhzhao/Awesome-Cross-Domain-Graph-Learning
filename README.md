@@ -67,7 +67,37 @@ Summary of existing representative works on cross-domain graph learning.
 25. **Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/b29adb4bf2364acec8fb402ef731bb3b-Paper-Conference.pdf)].
 26. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2403.14340)].
 27. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/af2bb2b2280d36f8842e440b4e275152-Paper-Conference.pdf)].
-28. **Pending to extend...**
+28. **Privacy-preserving Cross-domain Recommendation with Federated Graph Learning**. In **ACM TIS 2024**, [[Paper](https://dl.acm.org/doi/pdf/10.1145/3653448)].
+29. **Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539431)].
+30. **Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks**. In **CIKM 2021**, [[Paper](https://doi.org/10.1145/3459637.3482131)].
+31. **Contrastive Cross-domain Recommendation in Matching**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539125)].
+32. **Cross Domain Recommendation via Bi-directional Transfer
+Graph Collaborative Filtering Networks**. In **CIKM 2020**, [[Paper](https://doi.org/10.1145/3340531.3412012)].
+33. **Cross-Domain Graph Anomaly Detection via Anomaly-Aware Contrastive Alignment**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/25591/25363)].
+34. **DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation**. In **IJCAI 2021**, [[Paper](https://www.ijcai.org/proceedings/2021/0342.pdf)].
+35. **Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs**. In **CIKM 2022**, [[Paper](https://doi.org/10.1145/3511808.3557275)].
+36. **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3539618.3591662)].
+37. **One Graph Model for Cross-domain Dynamic Link Prediction**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2402.02168)].
+38. **Graph Signal Processing for Cross-Domain Recommendation**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2407.12374)].
+39. **One for All, All for One: Learning and Transferring User Embeddings for Cross-Domain Recommendation**. In **WSDM 2023**, [[Paper](https://doi.org/10.1145/3539597.3570379)].
+40. **Non-IID Transfer Learning on Graphs**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26231/26003)].
+41. **Unsupervised Domain Adaptive Graph Convolutional Network**. In **WWW 2020**, [[Paper](https://doi.org/10.1145/3366423.3380219)].
+42. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**. In **ACM TIS 2023**, [[Paper](https://doi.org/10.1145/3618298)].
+43. **Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3477495.3531984)].
+44. **Beyond the overlapping users: Cross-domain recommendation via adaptive anchor link learning**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3539618.3591642)].
+45. **HiGPT: Heterogeneous Graph Language Model**. In **KDD 2024**, [[Paper](https://doi.org/10.1145/3637528.3671987)].
+46. **Boosting Graph Foundation Model from Structural Perspective**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2407.19941)].
+47. **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2406.12052)].
+48. **ARC: A Generalist Graph Anomaly Detector with In-Context Learning**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2405.16771)].
+49. **Prompt-Enhanced Spatio-Temporal Graph Transfer Learning**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2405.12452)].
+50. **Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification**. In **TNNLS 2023**, [[Paper](https://doi.org/10.1109/TNNLS.2023.3309632)].
+51. **Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3542680)].
+52. **Federated Graph Classification over Non-IID Graphs**. In **NeurIPS 2021**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)].
+53. **Graph Learning Regularization and Transfer Learning
+for Few-Shot Event Detection**. In **SIGIR 2021**, [[Paper](https://doi.org/10.1145/3404835.3463054)].
+54. **ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**. In **MM 2023**, [[Paper](https://doi.org/10.1145/3581783.3612026)].
+55. **Adaptive Transfer Learning on Graph Neural Networks**. In **KDD 2021**, [[Paper](https://doi.org/10.1145/3447548.3467450)].
+56. **Pending to extend...**
 
 
 ## Others
