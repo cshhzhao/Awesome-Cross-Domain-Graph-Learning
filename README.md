@@ -97,7 +97,11 @@ Graph Collaborative Filtering Networks**. In **CIKM 2020**, [[Paper](https://doi
 for Few-Shot Event Detection**. In **SIGIR 2021**, [[Paper](https://doi.org/10.1145/3404835.3463054)].
 54. **ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**. In **MM 2023**, [[Paper](https://doi.org/10.1145/3581783.3612026)].
 55. **Adaptive Transfer Learning on Graph Neural Networks**. In **KDD 2021**, [[Paper](https://doi.org/10.1145/3447548.3467450)].
-56. **Pending to extend...**
+56.  **Cross-Domain Graph Anomaly Detection**.In **TNNLS 2021**, [[Paper](https://ieeexplore.ieee.org/document/9556511)].
+57.  **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.13934)].
+58. **Pre-training Graph Neural Network for Cross Domain Recommendation**. In **CogMI 2021**, [[Paper](https://arxiv.org/abs/2405.13934)].
+
+59. **Pending to extend...**
 
 
 ## Others
