@@ -35,10 +35,10 @@ Summary of existing representative works on cross-domain graph learning.
    In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)]  [[Code](https://github.com/cshhzhao/GCOPE)].
 
 2. **UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2402.13630)].
+   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.13630)].
 
 3. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**.
-   In **arXiv**, [[Paper](https://arxiv.org/abs/2406.01899)].
+   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)].
 
 4. **Cross-domain few-shot graph classification**.
    In **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20642/20401)].
@@ -101,7 +101,7 @@ for Few-Shot Event Detection**. In **SIGIR 2021**, [[Paper](https://doi.org/10.1
 57.  **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.13934)].
 58. **Pre-training Graph Neural Network for Cross Domain Recommendation**. In **CogMI 2021**, [[Paper](https://arxiv.org/abs/2405.13934)].
 
-59. **Pending to extend...**
+**Pending to extend...**
 
 
 ## Others
