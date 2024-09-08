@@ -38,7 +38,7 @@ Summary of existing representative works on cross-domain graph learning.
    In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.13630)] [[Code](https://github.com/yf-he/UniGraph)] .
 
 3. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**.
-   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)].
+   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
 
 4. **Cross-domain few-shot graph classification**.
    In **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20642/20401)].
