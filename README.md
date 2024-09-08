@@ -50,11 +50,11 @@ Summary of existing representative works on cross-domain graph learning.
 8. **Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition**. In **MM 2020**, [[Paper](https://doi.org/10.1145/3394171.3413822)].
 9. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)].
 10. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**. In **WWW 2024**, [[Paper](https://doi.org/10.1145/3589334.3645439)].
-11. **Gcc: Graph contrastive coding for graph neural network pre-training**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403168)].
+11. **Gcc: Graph contrastive coding for graph neural network pre-training**. In **KDD 2020**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403168)].
 12. **GraphGPT: Graph Instruction Tuning for Large Language Models**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657775)].
 13. **One for all: Towards training one graph model for all classification tasks**. In **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=4IT2pgc9v6)].
 14. **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.14512)].
-15. **PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis**. In **CHIL 2023**, [[Paper](https://arxiv.org/abs/2305.14376f)] [[Code](https://github.com/Owen-Yang-18/BrainNN-PreTrain)].
+15. **PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis**. In **CHIL 2023**, [[Paper](https://arxiv.org/abs/2305.14376)] [[Code](https://github.com/Owen-Yang-18/BrainNN-PreTrain)].
 16. **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**. In **WWW 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645423)].
 17. **A Pure Transformer Pretraining Framework on Text-attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.13873)] [[Code](https://github.com/SongYYYY/GSPT)].
 18. **ProCom: A Few-shot Targeted Community Detection Algorithm**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671749)].
@@ -64,9 +64,9 @@ Summary of existing representative works on cross-domain graph learning.
 22. **Graph few-shot learning via knowledge transfer**. In **AAAI 2020**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6142/5998)].
 23. **Graph Machine Learning in the Era of Large Language Models (LLMs)**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2404.14928)].
 24. **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.02953)] [[Code](https://github.com/THUDM/GraphAlign)].
-25. **Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/file/b29adb4bf2364acec8fb402ef731bb3b-Paper-Conference.pdf)].
+25. **Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**. In **NeurIPS 2023**, [[Paper](https://arxiv.org/abs/2311.01038)].
 26. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.14340)].
-27. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2022/file/af2bb2b2280d36f8842e440b4e275152-Paper-Conference.pdf)].
+27. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://arxiv.org/abs/2203.02018)] [[Code](https://github.com/minjiyoon/KTN)].
 28. **Privacy-preserving Cross-domain Recommendation with Federated Graph Learning**. In **ACM TIS 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3653448)].
 29. **Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539431)].
 30. **Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks**. In **CIKM 2021**, [[Paper](https://doi.org/10.1145/3459637.3482131)].
