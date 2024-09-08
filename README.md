@@ -35,7 +35,7 @@ Summary of existing representative works on cross-domain graph learning.
    In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)]  [[Code](https://github.com/cshhzhao/GCOPE)].
 
 2. **UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs**.
-   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.13630)].
+   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.13630)] [[Code](https://github.com/yf-he/UniGraph)] .
 
 3. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**.
    In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)].
