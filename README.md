@@ -19,7 +19,19 @@ We will try to make this list updated frequently. If you found any error or any 
 
 - [Why are the cross-domain learning on graphs important?](#why-are-the-cross-domain-learning-on-graphs-important)
 - [Table of Contents](#table-of-contents)
-- [Cross-domain Graph Learning Papers](#cross-domain-graph-learning-papers)
+- [Cross-domain Graph Learning](#cross-domain-graph-learning)
+  - [Structure-oriented](#structure-oriented)
+    - [Structure Generation](#structure-generation)
+    - [Structure Contrast](#structure-contrast)
+  - [Feature-oriented](#feature-oriented)
+    - [Feature Contrast](#feature-contrast)
+    - [Feature Unification](#feature-unification)
+  - [Mixture-oriented](#mixture-oriented)
+    - [Sequential Mixture](#sequential-mixture)
+    - [Unified Mixture](#unified-mixture)
+    - [Parameter Mixture](#parameter-mixture)
+    - [Data-centric Mixture](#data-centric-mixture)
+
 - [Others](#others)
 - [Contributing](#contributing)
 - [Citation](#citation)
@@ -28,80 +40,87 @@ We will try to make this list updated frequently. If you found any error or any 
 
 ## Cross-domain Graph Learning Papers
 
-Summary of existing representative works on cross-domain graph learning. 
+## Structure-oriented
 
-<!-- 先罗列收集文章，然后对这些文章进行分类，参考孙博和宇涵他们的文章 -->
-1. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**.
-   In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)]  [[Code](https://github.com/cshhzhao/GCOPE)].
+### Structure Generation
+1. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**. In **WWW 2024**, [[Paper](https://doi.org/10.1145/3589334.3645439)][[Code](https://github.com/wykk00/GraphControl)]
+2. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.14340)].
+3. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
+4. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
 
-2. **UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs**.
-   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.13630)] [[Code](https://github.com/yf-he/UniGraph)] .
 
-3. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**.
-   In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
+### Structure Contrast
+1. **Graph few-shot learning via knowledge transfer**. In **AAAI 2020**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6142/5998)].
+2. **Gcc: Graph contrastive coding for graph neural network pre-training**. In **KDD 2020**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403168)][[Code](https://github.com/THUDM/GCC)].
+3. **Pre-training Graph Neural Network for Cross Domain Recommendation**. In **CogMI 2021**, [[Paper](https://arxiv.org/abs/2405.13934)].
+4. **ProCom: A Few-shot Targeted Community Detection Algorithm**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671749)].
+5. **Non-IID Transfer Learning on Graphs**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26231/26003)].
+6. **Boosting Graph Foundation Model from Structural Perspective**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2407.19941)].
 
-4. **Cross-domain few-shot graph classification**.
-   In **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20642/20401)].
+## Feature-oriented
 
-5. **Cross-domain few-shot graph classification with a reinforced task coordinator**.
-   In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25615/25387)].
-6. **Cross-Context Backdoor Attacks against Graph Prompt Learning**. In **KDD 2024**, [[Paper](https://doi.org/10.1145/3637528.3671956)]  [[Code](https://github.com/xtLyu/CrossBA)].
-7. **Federated Learning on Non-IID Graphs via Structural Knowledge Sharing**. In **AAAI 2023**, [[Paper](https://doi.org/10.1609/aaai.v37i8.26187)][[Code](https://github.com/yuetan031/FedStar)].
-8. **Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition**. In **MM 2020**, [[Paper](https://doi.org/10.1145/3394171.3413822)].
-9. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
-10. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**. In **WWW 2024**, [[Paper](https://doi.org/10.1145/3589334.3645439)][[Code](https://github.com/wykk00/GraphControl)].
-11. **Gcc: Graph contrastive coding for graph neural network pre-training**. In **KDD 2020**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403168)][[Code](https://github.com/THUDM/GCC)].
-12. **GraphGPT: Graph Instruction Tuning for Large Language Models**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657775)]  [[Code](https://github.com/HKUDS/GraphGPT)].
-13. **One for all: Towards training one graph model for all classification tasks**. In **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=4IT2pgc9v6)][[Code](https://github.com/LechengKong/OneForAll)].
-14. **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.14512)].
-15. **PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis**. In **CHIL 2023**, [[Paper](https://arxiv.org/abs/2305.14376)] [[Code](https://github.com/Owen-Yang-18/BrainNN-PreTrain)].
-16. **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**. In **WWW 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645423)].
-17. **A Pure Transformer Pretraining Framework on Text-attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.13873)] [[Code](https://github.com/SongYYYY/GSPT)].
-18. **ProCom: A Few-shot Targeted Community Detection Algorithm**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671749)].
-19. **Semi-supervised Domain Adaptation in Graph Transfer Learning**. In **IJCAI 2023**, [[Paper](https://doi.org/10.24963/ijcai.2023/253)][[Code](https://github.com/joe817/SGDA)].
-20. **Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657927)].
-21. **Source Free Unsupervised Graph Domain Adaptation**. In **WSDM 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635802)][[Code](https://github.com/HaitaoMao/SOGA)].
-22. **Graph few-shot learning via knowledge transfer**. In **AAAI 2020**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6142/5998)].
-23. **Graph Machine Learning in the Era of Large Language Models (LLMs)**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2404.14928)].
-24. **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.02953)] [[Code](https://github.com/THUDM/GraphAlign)].
-25. **Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**. In **NeurIPS 2023**, [[Paper](https://arxiv.org/abs/2311.01038)][[Code](https://github.com/galina0217/APT)].
-26. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.14340)].
-27. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://arxiv.org/abs/2203.02018)] [[Code](https://github.com/minjiyoon/KTN)].
-28. **Privacy-preserving Cross-domain Recommendation with Federated Graph Learning**. In **ACM TIS 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3653448)].
-29. **Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539431)].
-30. **Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks**. In **CIKM 2021**, [[Paper](https://doi.org/10.1145/3459637.3482131)].
-31. **Contrastive Cross-domain Recommendation in Matching**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539125)].
-32. **Cross Domain Recommendation via Bi-directional Transfer
+   
+### Feature Contrast
+1. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://arxiv.org/abs/2203.02018)] [[Code](https://github.com/minjiyoon/KTN)].
+2. **Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657927)].
+3. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**. In **ACM TIS 2023**, [[Paper](https://doi.org/10.1145/3618298)].
+### Feature Unification
+1. **One for all: Towards training one graph model for all classification tasks**. In **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=4IT2pgc9v6)][[Code](https://github.com/LechengKong/OneForAll)].
+2. **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.02953)] [[Code](https://github.com/THUDM/GraphAlign)].
+## Mixture-oriented
+
+### Sequential Mixture
+1. **PTGB: Pre-Train Graph Neural Networks for Brain Network Analysis**. In **CHIL 2023**, [[Paper](https://arxiv.org/abs/2305.14376)] [[Code](https://github.com/Owen-Yang-18/BrainNN-PreTrain)].
+2. **Source Free Unsupervised Graph Domain Adaptation**. In **WSDM 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3616855.3635802)][[Code](https://github.com/HaitaoMao/SOGA)].
+3. **A Pure Transformer Pretraining Framework on Text-attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.13873)] [[Code](https://github.com/SongYYYY/GSPT)].
+4. **ARC: A Generalist Graph Anomaly Detector with In-Context Learning**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.16771)].
+5. **UniGraph: Learning a Unified Cross-Domain Foundation Model for Text-Attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.13630)] [[Code](https://github.com/yf-he/UniGraph)].
+6. **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.14512)].
+7. **AnyGraph: Graph Foundation Model in the Wild**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.10700)].
+### Unified Mixture
+1. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**. In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)]  [[Code](https://github.com/cshhzhao/GCOPE)].
+2. **Cross-domain few-shot graph classification**. In **AAAI 2022**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/20642/20401)].
+3. **Cross-domain few-shot graph classification with a reinforced task coordinator**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/25615/25387)].
+4. **Cross-Context Backdoor Attacks against Graph Prompt Learning**. In **KDD 2024**, [[Paper](https://doi.org/10.1145/3637528.3671956)]  [[Code](https://github.com/xtLyu/CrossBA)].
+5. **Federated Learning on Non-IID Graphs via Structural Knowledge Sharing**. In **AAAI 2023**, [[Paper](https://doi.org/10.1609/aaai.v37i8.26187)][[Code](https://github.com/yuetan031/FedStar)].
+6. **Adversarial Graph Representation Adaptation for Cross-Domain Facial Expression Recognition**. In **MM 2020**, [[Paper](https://doi.org/10.1145/3394171.3413822)].
+7. **GraphGPT: Graph Instruction Tuning for Large Language Models**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657775)]  [[Code](https://github.com/HKUDS/GraphGPT)].
+8. **MultiGPrompt for Multi-Task Pre-Training and Prompting on Graphs**. In **WWW 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645423)].
+9. **Graph Machine Learning in the Era of Large Language Models (LLMs)**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2404.14928)].
+10. **Privacy-preserving Cross-domain Recommendation with Federated Graph Learning**. In **ACM TIS 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3653448)].
+11. **Few-shot Heterogeneous Graph Learning via Cross-domain Knowledge Transfer**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539431)].
+12. **Learning Representations of Inactive Users: A Cross Domain Approach with Graph Neural Networks**. In **CIKM 2021**, [[Paper](https://doi.org/10.1145/3459637.3482131)].
+13. **Contrastive Cross-domain Recommendation in Matching**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3539125)].
+14. **Cross Domain Recommendation via Bi-directional Transfer
 Graph Collaborative Filtering Networks**. In **CIKM 2020**, [[Paper](https://doi.org/10.1145/3340531.3412012)].
-33. **Cross-Domain Graph Anomaly Detection via Anomaly-Aware Contrastive Alignment**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/25591/25363)].
-34. **DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation**. In **IJCAI 2021**, [[Paper](https://www.ijcai.org/proceedings/2021/0342.pdf)].
-35. **Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs**. In **CIKM 2022**, [[Paper](https://doi.org/10.1145/3511808.3557275)].
-36. **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3539618.3591662)].
-37. **One Graph Model for Cross-domain Dynamic Link Prediction**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.02168)].
-38. **Graph Signal Processing for Cross-Domain Recommendation**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2407.12374)].
-39. **One for All, All for One: Learning and Transferring User Embeddings for Cross-Domain Recommendation**. In **WSDM 2023**, [[Paper](https://doi.org/10.1145/3539597.3570379)].
-40. **Non-IID Transfer Learning on Graphs**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26231/26003)].
-41. **Unsupervised Domain Adaptive Graph Convolutional Network**. In **WWW 2020**, [[Paper](https://doi.org/10.1145/3366423.3380219)].
-42. **Contrastive Graph Prompt-tuning for Cross-domain Recommendation**. In **ACM TIS 2023**, [[Paper](https://doi.org/10.1145/3618298)].
-43. **Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification**. In **SIGIR 2022**, [[Paper](https://doi.org/10.1145/3477495.3531984)].
-44. **Beyond the overlapping users: Cross-domain recommendation via adaptive anchor link learning**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3539618.3591642)].
-45. **HiGPT: Heterogeneous Graph Language Model**. In **KDD 2024**, [[Paper](https://doi.org/10.1145/3637528.3671987)].
-46. **Boosting Graph Foundation Model from Structural Perspective**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2407.19941)].
-47. **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.12052)].
-48. **ARC: A Generalist Graph Anomaly Detector with In-Context Learning**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.16771)].
-49. **Prompt-Enhanced Spatio-Temporal Graph Transfer Learning**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.12452)].
-50. **Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification**. In **TNNLS 2023**, [[Paper](https://doi.org/10.1109/TNNLS.2023.3309632)].
-51. **Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3542680)].
-52. **Federated Graph Classification over Non-IID Graphs**. In **NeurIPS 2021**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)].
-53. **Graph Learning Regularization and Transfer Learning
+15. **Cross-Domain Graph Anomaly Detection via Anomaly-Aware Contrastive Alignment**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/download/25591/25363)].
+16. **DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation**. In **IJCAI 2021**, [[Paper](https://www.ijcai.org/proceedings/2021/0342.pdf)].
+17. **Cross-Domain Aspect Extraction using Transformers Augmented with Knowledge Graphs**. In **CIKM 2022**, [[Paper](https://doi.org/10.1145/3511808.3557275)].
+18. **Decoupled Hyperbolic Graph Attention Network for Cross-domain Named Entity Recognition**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3539618.3591662)].
+19. **One Graph Model for Cross-domain Dynamic Link Prediction**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.02168)].
+20. **Graph Signal Processing for Cross-Domain Recommendation**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2407.12374)].
+21. **One for All, All for One: Learning and Transferring User Embeddings for Cross-Domain Recommendation**. In **WSDM 2023**, [[Paper](https://doi.org/10.1145/3539597.3570379)].
+22. **Unsupervised Domain Adaptive Graph Convolutional Network**. In **WWW 2020**, [[Paper](https://doi.org/10.1145/3366423.3380219)].
+23. **Graph Adaptive Semantic Transfer for Cross-domain Sentiment Classification**. In **SIGIR 2022**, [[Paper](https://doi.org/10.1145/3477495.3531984)].
+24. **HiGPT: Heterogeneous Graph Language Model**. In **KDD 2024**, [[Paper](https://doi.org/10.1145/3637528.3671987)].
+25. **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.12052)].
+26. **Prompt-Enhanced Spatio-Temporal Graph Transfer Learning**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.12452)].
+27. **Data-Efficient Brain Connectome Analysis via Multi-Task Meta-Learning**. In **KDD 2022**, [[Paper](https://doi.org/10.1145/3534678.3542680)].
+28. **Federated Graph Classification over Non-IID Graphs**. In **NeurIPS 2021**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2021/file/9c6947bd95ae487c81d4e19d3ed8cd6f-Paper.pdf)].
+29. **Graph Learning Regularization and Transfer Learning
 for Few-Shot Event Detection**. In **SIGIR 2021**, [[Paper](https://doi.org/10.1145/3404835.3463054)].
-54. **ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**. In **MM 2023**, [[Paper](https://doi.org/10.1145/3581783.3612026)].
-55. **Adaptive Transfer Learning on Graph Neural Networks**. In **KDD 2021**, [[Paper](https://doi.org/10.1145/3447548.3467450)].
-56.  **Cross-Domain Graph Anomaly Detection**.In **TNNLS 2021**, [[Paper](https://ieeexplore.ieee.org/document/9556511)].
-57.  **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.13934)].
-58. **Pre-training Graph Neural Network for Cross Domain Recommendation**. In **CogMI 2021**, [[Paper](https://arxiv.org/abs/2405.13934)].
-59. **AnyGraph: Graph Foundation Model in the Wild**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.10700)].
-60. **GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**. In **Neurips 2024**, [[Paper](https://arxiv.org/abs/2407.09709)].
+30. **ALEX: Towards Effective Graph Transfer Learning with Noisy Labels**. In **MM 2023**, [[Paper](https://doi.org/10.1145/3581783.3612026)].
+31. **Adaptive Transfer Learning on Graph Neural Networks**. In **KDD 2021**, [[Paper](https://doi.org/10.1145/3447548.3467450)].
+32.  **Cross-Domain Graph Anomaly Detection**.In **TNNLS 2021**, [[Paper](https://ieeexplore.ieee.org/document/9556511)].
+33.  **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.13934)].
+34. **GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**. In **Neurips 2024**, [[Paper](https://arxiv.org/abs/2407.09709)].
+### Parameter Mixture
+1. **Semi-supervised Domain Adaptation in Graph Transfer Learning**. In **IJCAI 2023**, [[Paper](https://doi.org/10.24963/ijcai.2023/253)][[Code](https://github.com/joe817/SGDA)].
+2. **Domain-adaptive Graph Attention-supervised Network for Cross-network Edge Classification**. In **TNNLS 2023**, [[Paper](https://doi.org/10.1109/TNNLS.2023.3309632)].
+### Data-centric Mixture
+1. **Better with Less: A Data-Active Perspective on Pre-Training Graph Neural Networks**. In **NeurIPS 2023**, [[Paper](https://arxiv.org/abs/2311.01038)][[Code](https://github.com/galina0217/APT)].
+2. **Beyond the overlapping users: Cross-domain recommendation via adaptive anchor link learning**. In **SIGIR 2023**, [[Paper](https://doi.org/10.1145/3539618.3591642)].
+   
 **Pending to extend...**
 
 
