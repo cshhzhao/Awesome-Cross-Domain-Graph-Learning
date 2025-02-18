@@ -29,10 +29,8 @@ We will try to make this list updated frequently. If you found any error or any 
   - [Mixture-oriented](#mixture-oriented)
     - [Sequential Mixture](#sequential-mixture)
     - [Unified Mixture](#unified-mixture)
-    - [Parameter Mixture](#parameter-mixture)
-    - [Data-centric Mixture](#data-centric-mixture)
-
-- [Others](#others)
+      - [Graph-based](#graph-based)
+      - [Flatten-based](#flatten-based)
 - [Contributing](#contributing)
 - [Citation](#citation)
   
