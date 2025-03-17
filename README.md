@@ -1,5 +1,5 @@
 <h1 align="center"> Awesome-Cross-Domain-Graph-Learning</h2>
-<h5 align="center">A collection of AWESOME things about performing cross-domain learning on Graphs. Our survey has been published on [https://arxiv.org/abs/2503.11086](https://arxiv.org/abs/2503.11086). </h5>
+<h5 align="center">A collection of AWESOME things about performing cross-domain learning on Graphs. Our survey has been published on [https://arxiv.org/abs/2503.11086]. </h5>
 
 <h5 align="center">
   
