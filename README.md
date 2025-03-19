@@ -45,6 +45,7 @@ We will try to make this list updated frequently. If you find any error or any m
 2. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.14340)].
 3. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
 4. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
+5. **GFT: Graph Foundation Model with Transferable Tree Vocabulary**. In **NeurIPS 2024**, [[Paper](https://openreview.net/forum?id=0MXzbAv8xy)].[[Code](https://github.com/Zehong-Wang/GFT)].
 
 
 ### Structure Contrast
@@ -55,8 +56,7 @@ We will try to make this list updated frequently. If you find any error or any m
 5. **ProCom: A Few-shot Targeted Community Detection Algorithm**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671749)].
 6. **Non-IID Transfer Learning on Graphs**. In **AAAI 2023**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/26231/26003)].
 7. **Boosting Graph Foundation Model from Structural Perspective**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2407.19941)].
-8. **GFT: Graph Foundation Model with Transferable Tree Vocabulary**. In **NeurIPS 2024**, [[Paper](https://openreview.net/forum?id=0MXzbAv8xy)].[[Code](https://github.com/Zehong-Wang/GFT)].
-9. **RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry**. In **WWW 2025**, , [[Paper](https://arxiv.org/abs/2502.03251)].[[Code](https://github.com/RiemannGraph/RiemannGFM)].
+8. **RiemannGFM: Learning a Graph Foundation Model from Riemannian Geometry**. In **WWW 2025**, , [[Paper](https://arxiv.org/abs/2502.03251)].[[Code](https://github.com/RiemannGraph/RiemannGFM)].
 
 ## Feature-oriented
    
