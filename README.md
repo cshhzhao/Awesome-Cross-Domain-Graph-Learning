@@ -46,7 +46,7 @@ We will try to make this list updated frequently. If you find any error or any m
 3. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
 4. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
 5. **GFT: Graph Foundation Model with Transferable Tree Vocabulary**. In **NeurIPS 2024**, [[Paper](https://openreview.net/forum?id=0MXzbAv8xy)].[[Code](https://github.com/Zehong-Wang/GFT)].
-6. **Towards A Universal Graph Structural Encoder**. In **ArXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code]([https://github.com/Zehong-Wang/GFT](https://github.com/Graph-and-Geometric-Learning/GFSE))].
+6. **Towards A Universal Graph Structural Encoder**. In **ArXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code](https://github.com/Zehong-Wang/GFT)].
 
 
 ### Structure Contrast
@@ -72,6 +72,7 @@ We will try to make this list updated frequently. If you find any error or any m
 3. **Towards Cross-domain Few-shot Graph Anomaly Detection**. In **ICDM 2024**, [[Paper](https://arxiv.org/abs/2410.08629)].
 4. **Zerog: Investigating cross-dataset zero-shot transferability in graphs**. In **SIGKDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671982)].
 5. **DAGPrompT: Pushing the Limits of Graph Prompting with a Distribution-aware Graph Prompt Tuning Approach**. In **WWW 2025**, [[Paper](https://arxiv.org/abs/2501.15142)] [[Code](https://github.com/Cqkkkkkk/DAGPrompT)].
+6. **Zero-shot Generalist Graph Anomaly Detection with Unified Neighborhood Prompts**. In **IJCAI 2025**, [[Paper](https://arxiv.org/abs/2410.14886)] [[Code](https://github.com/mala-lab/UNPrompt)].
 ## Mixture-oriented
 
 ### Sequential Mixture
