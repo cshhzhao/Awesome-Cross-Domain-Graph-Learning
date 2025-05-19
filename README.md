@@ -46,7 +46,7 @@ We will try to make this list updated frequently. If you find any error or any m
 3. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
 4. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
 5. **GFT: Graph Foundation Model with Transferable Tree Vocabulary**. In **NeurIPS 2024**, [[Paper](https://openreview.net/forum?id=0MXzbAv8xy)].[[Code](https://github.com/Zehong-Wang/GFT)].
-6. **Towards A Universal Graph Structural Encoder**. In **ArXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code](https://github.com/Zehong-Wang/GFT)].
+6. **Towards A Universal Graph Structural Encoder**. In **ArXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code](https://github.com/Graph-and-Geometric-Learning/GFSE)].
 
 
 ### Structure Contrast
