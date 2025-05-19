@@ -123,6 +123,7 @@ We will try to make this list updated frequently. If you find any error or any m
 8. **Higpt: Heterogeneous graph language model**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671987)].
 9. **Graphwiz: An instruction-following language model for graph computational problems**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3672010)].
 10. **Graphclip: Enhancing transferability in graph foundation models for text-attributed graphs**. In **WWW 2025**, [[Paper](https://arxiv.org/abs/2410.10329)].
+11. **One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**. In **ArXiv 2024**, [[Paper](https://arxiv.org/abs/2412.00315)].
 
 ## Contributing
 👍 Contributions to this repository are welcome! 
