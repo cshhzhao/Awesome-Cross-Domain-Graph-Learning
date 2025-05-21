@@ -87,8 +87,9 @@ We will try to make this list updated frequently. If you find any error or any m
 9. **Graphlora: Structure-aware contrastive low-rank adaptation for cross-graph transfer learning**. In **SIGKDD 2025**, [[Paper](https://arxiv.org/abs/2409.16670)].
 10. **SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation**, In **WWW 2025**, [[Paper](https://arxiv.org/abs/2502.05424)] [[Code](https://github.com/blue-soda/SAMGPT)].
 11. **Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**, In **arXiv 2025**, [[Paper](https://arxiv.org/abs/2502.02017)]
+12. ****Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]**
 ### Unified Mixture
-#### Graph-based
+#### GNN-based
 1. **Unsupervised domain adaptive graph convolutional networks**. In **WWW 2020**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380219)].
 2. **DA-GCN: A Domain-aware Attentive Graph Convolution Network for Shared-account Cross-domain Sequential Recommendation**. In **IJCAI 2021**, [[Paper](https://www.ijcai.org/proceedings/2021/0342.pdf)].
 3. **Cross-Domain Graph Anomaly Detection**.In **TNNLS 2021**, [[Paper](https://ieeexplore.ieee.org/document/9556511)].
