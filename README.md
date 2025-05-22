@@ -46,7 +46,7 @@ We will try to make this list updated frequently. If you find any error or any m
 3. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
 4. **Cross-Domain Graph Data Scaling: A Showcase with Diffusion Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.01899)] [[Code](https://github.com/WenzhuoTang/UniAug)].
 5. **GFT: Graph Foundation Model with Transferable Tree Vocabulary**. In **NeurIPS 2024**, [[Paper](https://openreview.net/forum?id=0MXzbAv8xy)].[[Code](https://github.com/Zehong-Wang/GFT)].
-6. **Towards A Universal Graph Structural Encoder**. In **ArXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code](https://github.com/Graph-and-Geometric-Learning/GFSE)].
+6. **Towards A Universal Graph Structural Encoder**. In **arXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code](https://github.com/Graph-and-Geometric-Learning/GFSE)].
 
 
 ### Structure Contrast
@@ -114,19 +114,20 @@ We will try to make this list updated frequently. If you find any error or any m
 22. **Enhancing Cross-domain Link Prediction via Evolution Process Modeling**. In **WWW 2025**, [[Paper]([https://arxiv.org/abs/2402.02168])].
 23.  **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]
 24. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper]([https://dl.acm.org/doi/abs/10.1145/3696410.3714818])] [[Code](https://github.com/yf-he/UniGraph2)].
+25. **Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**. In **arXiv 2025**, [[Paper]([https://arxiv.org/abs/2412.16441])] [[Code](https://github.com/Zehong-Wang/GIT)].
 
 #### Flatten-based
 1. **Gimlet: A unified graph-text model for instruction-based molecule zero-shot learning**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html)].
 2. **Graphtranslator: Aligning graph model to large language model for open-ended tasks**. In **WWW 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3589334.3645682)]
 3. **GraphGPT: Graph Instruction Tuning for Large Language Models**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657775)]  [[Code](https://github.com/HKUDS/GraphGPT)].
 4. **Gita: Graph to visual and textual integration for vision-language graph reasoning**. In **NeurIPS 2024**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/00295cede6e1600d344b5cd6d9fd4640-Abstract-Conference.html)].
-5. **Instructgraph: Boosting large language models via graph-centric instruction tuning and preference alignment**. In **ArXiv 2024**, [[Paper](https://arxiv.org/abs/2402.08785)].
+5. **Instructgraph: Boosting large language models via graph-centric instruction tuning and preference alignment**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2402.08785)].
 6. **LLMs as Zero-shot Graph Learners: Alignment of GNN Representations with LLM Token Embeddings**. In **NeurIPS 2024**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2024/hash/0b77d3a82b59e9d9899370b378087faf-Abstract-Conference.html)].
 7. **GOFA: A Generative One-For-All Model for Joint Graph Language Modeling**. In **Neurips 2024**, [[Paper](https://arxiv.org/abs/2407.09709)].
 8. **Higpt: Heterogeneous graph language model**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3671987)].
 9. **Graphwiz: An instruction-following language model for graph computational problems**. In **KDD 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3637528.3672010)].
 10. **Graphclip: Enhancing transferability in graph foundation models for text-attributed graphs**. In **WWW 2025**, [[Paper](https://arxiv.org/abs/2410.10329)].
-11. **One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**. In **ArXiv 2024**, [[Paper](https://arxiv.org/abs/2412.00315)].
+11. **One Model for One Graph: A New Perspective for Pretraining with Cross-domain Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2412.00315)].
 
 ## Contributing
 👍 Contributions to this repository are welcome! 
