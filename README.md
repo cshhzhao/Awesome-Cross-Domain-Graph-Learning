@@ -87,7 +87,7 @@ We will try to make this list updated frequently. If you find any error or any m
 9. **Graphlora: Structure-aware contrastive low-rank adaptation for cross-graph transfer learning**. In **SIGKDD 2025**, [[Paper](https://arxiv.org/abs/2409.16670)].
 10. **SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation**, In **WWW 2025**, [[Paper](https://arxiv.org/abs/2502.05424)] [[Code](https://github.com/blue-soda/SAMGPT)].
 11. **Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**, In **arXiv 2025**, [[Paper](https://arxiv.org/abs/2502.02017)]
-12. **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]
+
 ### Unified Mixture
 #### GNN-based
 1. **Unsupervised domain adaptive graph convolutional networks**. In **WWW 2020**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3366423.3380219)].
@@ -112,7 +112,8 @@ We will try to make this list updated frequently. If you find any error or any m
 20. **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.12052)].
 21. **Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**. In **arXiv 2024**, [[Paper](https://arxiv.org/pdf/2412.16441)].
 22. **Enhancing Cross-domain Link Prediction via Evolution Process Modeling**. In **WWW 2025**, [[Paper]([https://arxiv.org/abs/2402.02168])].
-23. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper]([https://dl.acm.org/doi/abs/10.1145/3696410.3714818])] [[Code](https://github.com/yf-he/UniGraph2)].
+23.  **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]
+24. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper]([https://dl.acm.org/doi/abs/10.1145/3696410.3714818])] [[Code](https://github.com/yf-he/UniGraph2)].
 
 #### Flatten-based
 1. **Gimlet: A unified graph-text model for instruction-based molecule zero-shot learning**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html)].
