@@ -113,7 +113,7 @@ We will try to make this list updated frequently. If you find any error or any m
 21. **Enhancing Cross-domain Link Prediction via Evolution Process Modeling**. In **WWW 2025**, [[Paper]([https://arxiv.org/abs/2402.02168])].
 22.  **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]
 23. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper]([https://dl.acm.org/doi/abs/10.1145/3696410.3714818])] [[Code](https://github.com/yf-he/UniGraph2)].
-24. **Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**. In **arXiv 2025**, [[Paper]([https://arxiv.org/abs/2412.16441])] [[Code](https://github.com/Zehong-Wang/GIT)].
+24. **Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**. In **arXiv 2025**, [[Paper](https://arxiv.org/abs/2412.16441)] [[Code](https://github.com/Zehong-Wang/GIT)].
 
 #### Flatten-based
 1. **Gimlet: A unified graph-text model for instruction-based molecule zero-shot learning**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html)].
