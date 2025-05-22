@@ -178,3 +178,12 @@ Other Representative Works:
     archivePrefix={arXiv}
   }
   ```
+
+🔥 **ProG** A Graph Prompt Learning Benchmark (I am the co-first author, contributing to the primary writing and experimental evaluation, including the extension of GPPT and GPF-plus on both node and graph classification tasks.)
+  ```latex
+  @inproceedings{ziprog,
+  title={ProG: A Graph Prompt Learning Benchmark},
+  author={Zi, Chenyi and Zhao, Haihong and Sun, Xiangguo and Lin, Yiqing and Cheng, Hong and Li, Jia},
+  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
+}
+  ```
