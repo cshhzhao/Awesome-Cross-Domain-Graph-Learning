@@ -181,9 +181,11 @@ Other Representative Works:
 
 🔥 **ProG** A Graph Prompt Learning Benchmark (I am the co-first author, contributing to the primary writing and experimental evaluation, including the extension of GPPT and GPF-plus on both node and graph classification tasks.)
   ```latex
-  @inproceedings{ziprog,
-  title={ProG: A Graph Prompt Learning Benchmark},
-  author={Zi, Chenyi and Zhao, Haihong and Sun, Xiangguo and Lin, Yiqing and Cheng, Hong and Li, Jia},
-  booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track}
-}
+  @inproceedings{Neurips2024prog,
+    title={ProG: A Graph Prompt Learning Benchmark},
+    author={Chenyi Zi and Haihong Zhao and Xiangguo Sun and Yiqing Lin and Hong Cheng and Jia Li},
+    booktitle={The Thirty-eight Conference on Neural Information Processing Systems Datasets and Benchmarks Track},
+    year={2024},
+    url={https://openreview.net/forum?id=wqo6xEMyk9}
+  }
   ```
