@@ -110,9 +110,9 @@ We will try to make this list updated frequently. If you find any error or any m
 18. **All in One and One for All: A Simple yet Effective Method towards Cross-domain Graph Pretraining**. In **KDD'2024**, [[Paper](https://arxiv.org/abs/2402.09834)]  [[Code](https://github.com/cshhzhao/GCOPE)].
 19. **Text-Free Multi-domain Graph Pre-training: Toward Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2405.13934)].
 20. **UniGLM: Training One Unified Language Model for Text-Attributed Graphs**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.12052)].
-21. **Enhancing Cross-domain Link Prediction via Evolution Process Modeling**. In **WWW 2025**, [[Paper]([https://arxiv.org/abs/2402.02168])].
+21. **Enhancing Cross-domain Link Prediction via Evolution Process Modeling**. In **WWW 2025**, [[Paper](https://arxiv.org/abs/2402.02168)].
 22.  **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]
-23. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper]([https://dl.acm.org/doi/abs/10.1145/3696410.3714818])] [[Code](https://github.com/yf-he/UniGraph2)].
+23. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714818)] [[Code](https://github.com/yf-he/UniGraph2)].
 24. **Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**. In **arXiv 2025**, [[Paper](https://arxiv.org/abs/2412.16441)] [[Code](https://github.com/Zehong-Wang/GIT)].
 
 #### Flatten-based
