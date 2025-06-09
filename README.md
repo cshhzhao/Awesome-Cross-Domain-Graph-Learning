@@ -86,7 +86,7 @@ We will try to make this list updated frequently. If you find any error or any m
 8. **AnyGraph: Graph Foundation Model in the Wild**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2408.10700)].
 9. **Graphlora: Structure-aware contrastive low-rank adaptation for cross-graph transfer learning**. In **SIGKDD 2025**, [[Paper](https://arxiv.org/abs/2409.16670)].
 10. **SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation**, In **WWW 2025**, [[Paper](https://arxiv.org/abs/2502.05424)] [[Code](https://github.com/blue-soda/SAMGPT)].
-11. **Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**, In **arXiv 2025**, [[Paper](https://arxiv.org/abs/2502.02017)]
+11. **Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**, In **ICML 2025**, [[Paper](https://arxiv.org/abs/2502.02017)]
 
 ### Unified Mixture
 #### GNN-based
