@@ -65,7 +65,8 @@ We will try to make this list updated frequently. If you find any error or any m
 1. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://arxiv.org/abs/2203.02018)] [[Code](https://github.com/minjiyoon/KTN)].
 2. **Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657927)].
 3. **Universal prompt tuning for graph neural networks**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a4a1ee071ce0fe63b83bce507c9dc4d7-Abstract-Conference.html)].
-4. **Relief: Reinforcement learning empowered graph feature prompt tuning**. In **SIGKDD 2025**, [[Paper](https://arxiv.org/abs/2408.03195)].
+4. **Relief: Reinforcement learning empowered graph feature prompt tuning**. In **SIGKDD 2025**, [[Paper](https://doi.org/10.1145/3690624.3709252)][[Code](https://github.com/JasonZhujp/RELIEF)].
+5. **Cross-Domain Graph Anomaly Detection via Test-Time Training with Homophily-Guided Self-Supervision**. In **TMLR 2025**, [[Paper](https://openreview.net/forum?id=sB3LqdOlNb)][[Code](https://github.com/delaramphf/GADT3-Algorithm)].
 ### Dimension Misalign
 1. **One for all: Towards training one graph model for all classification tasks**. In **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=4IT2pgc9v6)][[Code](https://github.com/LechengKong/OneForAll)].
 2. **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.02953)] [[Code](https://github.com/THUDM/GraphAlign)].
