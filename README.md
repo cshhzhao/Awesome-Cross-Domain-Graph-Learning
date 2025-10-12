@@ -87,6 +87,7 @@ We will try to make this list updated frequently. If you find any error or any m
 9. **Graphlora: Structure-aware contrastive low-rank adaptation for cross-graph transfer learning**. In **SIGKDD 2025**, [[Paper](https://arxiv.org/abs/2409.16670)].
 10. **SAMGPT: Text-free Graph Foundation Model for Multi-domain Pre-training and Cross-domain Adaptation**, In **WWW 2025**, [[Paper](https://arxiv.org/abs/2502.05424)] [[Code](https://github.com/blue-soda/SAMGPT)].
 11. **Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment**, In **ICML 2025**, [[Paper](https://arxiv.org/abs/2502.02017)]
+12. **MLDGG: Meta-Learning for Domain Generalization on Graphs**. In **KDD 2025**,[[Paper][(https://doi.org/10.1145/3690624.3709188)]
 
 ### Unified Mixture
 #### GNN-based
@@ -114,6 +115,8 @@ We will try to make this list updated frequently. If you find any error or any m
 22.  **Unified Graph Neural Networks Pre-training for Multi-domain Graphs**, In **AAAI 2025**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/33325)]
 23. **Unigraph2: Learning a unified embedding space to bind multimodal graphs**. In **WWW 2025**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3696410.3714818)] [[Code](https://github.com/yf-he/UniGraph2)].
 24. **Towards Graph Foundation Models: Learning Generalities Across Graphs via Task-Trees**. In **arXiv 2025**, [[Paper](https://arxiv.org/abs/2412.16441)] [[Code](https://github.com/Zehong-Wang/GIT)].
+25. **A cross-domain knowledge tracing model based on graph optimal transport**. In **World Wide Web 2025**,[[Paper](https://link.springer.com/article/10.1007/s11280-024-01311-1)]
+26. **Bridging Source and Target Domains via Link Prediction for Unsupervised Domain Adaptation on Graphs**. In **WSDM 2025**,[[Paper][(https://doi.org/10.1145/3701551.3703519)]
 
 #### Flatten-based
 1. **Gimlet: A unified graph-text model for instruction-based molecule zero-shot learning**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/129033c7c08be683059559e8d6bfd460-Abstract-Conference.html)].
