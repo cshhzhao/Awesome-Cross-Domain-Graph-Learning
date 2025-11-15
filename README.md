@@ -21,11 +21,11 @@ We will try to make this list updated frequently. If you find any error or any m
 - [Table of Contents](#table-of-contents)
 - [Cross-domain Graph Learning](#cross-domain-graph-learning)
   - [Structure-oriented](#structure-oriented)
-    - [Structure Generation](#structure-generation)
-    - [Structure Contrast](#structure-contrast)
+    - [Generative](#generative)
+    - [Contrastive](#contrastive)
   - [Feature-oriented](#feature-oriented)
-    - [Dimension Align](#dimension-align)
-    - [Dimension Misalign](#dimension-misalign)
+    - [In-space](#in-space)
+    - [Cross-space](#cross-space)
   - [Mixture-oriented](#mixture-oriented)
     - [Sequential Mixture](#sequential-mixture)
     - [Unified Mixture](#unified-mixture)
@@ -40,7 +40,7 @@ We will try to make this list updated frequently. If you find any error or any m
 
 ## Structure-oriented
 
-### Structure Generation
+### Generative
 1. **GraphControl: Adding Conditional Control to Universal Graph Pre-trained Models for Graph Domain Transfer Learning**. In **WWW 2024**, [[Paper](https://doi.org/10.1145/3589334.3645439)][[Code](https://github.com/wykk00/GraphControl)]
 2. **Exploring Task Unification in Graph Representation Learning via Generative Approach**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.14340)].
 3. **OpenGraph: Towards Open Graph Foundation Models**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2403.01121)][[Code](https://github.com/HKUDS/OpenGraph)].
@@ -49,7 +49,7 @@ We will try to make this list updated frequently. If you find any error or any m
 6. **Towards A Universal Graph Structural Encoder**. In **arXiv 2025**, [[Paper](https://arxiv.org/pdf/2504.10917)].[[Code](https://github.com/Graph-and-Geometric-Learning/GFSE)].
 
 
-### Structure Contrast
+### Contrastive
 1. **Graph few-shot learning via knowledge transfer**. In **AAAI 2020**, [[Paper](https://ojs.aaai.org/index.php/AAAI/article/view/6142/5998)].
 2. **Gcc: Graph contrastive coding for graph neural network pre-training**. In **KDD 2020**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3394486.3403168)][[Code](https://github.com/THUDM/GCC)].
 3. **Pre-training Graph Neural Network for Cross Domain Recommendation**. In **CogMI 2021**, [[Paper](https://arxiv.org/abs/2405.13934)].
@@ -61,13 +61,13 @@ We will try to make this list updated frequently. If you find any error or any m
 
 ## Feature-oriented
    
-### Dimension Align
+### In-space
 1. **Zero-shot Transfer Learning within a Heterogeneous Graph via Knowledge Transfer Networks**. In **NeurIPS 2022**, [[Paper](https://arxiv.org/abs/2203.02018)] [[Code](https://github.com/minjiyoon/KTN)].
 2. **Negative as Positive: Enhancing Out-of-distribution Generalization for Graph Contrastive Learning**. In **SIGIR 2024**, [[Paper](https://dl.acm.org/doi/abs/10.1145/3626772.3657927)].
 3. **Universal prompt tuning for graph neural networks**. In **NeurIPS 2023**, [[Paper](https://proceedings.neurips.cc/paper_files/paper/2023/hash/a4a1ee071ce0fe63b83bce507c9dc4d7-Abstract-Conference.html)].
 4. **Relief: Reinforcement learning empowered graph feature prompt tuning**. In **SIGKDD 2025**, [[Paper](https://doi.org/10.1145/3690624.3709252)][[Code](https://github.com/JasonZhujp/RELIEF)].
 5. **Cross-Domain Graph Anomaly Detection via Test-Time Training with Homophily-Guided Self-Supervision**. In **TMLR 2025**, [[Paper](https://openreview.net/forum?id=sB3LqdOlNb)][[Code](https://github.com/delaramphf/GADT3-Algorithm)].
-### Dimension Misalign
+### Cross-space
 1. **One for all: Towards training one graph model for all classification tasks**. In **ICLR 2024**, [[Paper](https://openreview.net/pdf?id=4IT2pgc9v6)][[Code](https://github.com/LechengKong/OneForAll)].
 2. **GraphAlign: Pretraining One Graph Neural Network on Multiple Graphs via Feature Alignment**. In **arXiv 2024**, [[Paper](https://arxiv.org/abs/2406.02953)] [[Code](https://github.com/THUDM/GraphAlign)].
 3. **Towards Cross-domain Few-shot Graph Anomaly Detection**. In **ICDM 2024**, [[Paper](https://arxiv.org/abs/2410.08629)].
